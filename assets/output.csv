@@ -1,0 +1,268 @@
+year,state,registration
+2017,Alabama,24
+2017,Alaska,12
+2017,Arizona,101
+2017,California,397
+2017,Colorado,38
+2017,Connecticut,26
+2017,Delaware,16
+2017,District Of Columbia,39
+2017,Florida,157
+2017,Georgia,80
+2017,Hawaii,70
+2017,Idaho,47
+2017,Illinois,14
+2017,Indiana,24
+2017,Kentucky,12
+2017,Louisiana,12
+2017,Maryland,79
+2017,Massachusetts,41
+2017,Michigan,21
+2017,Minnesota,25
+2017,Missouri,8
+2017,Montana,49
+2017,Nevada,48
+2017,New Hampshire,12
+2017,New Jersey,40
+2017,New Mexico,12
+2017,New York,72
+2017,North Carolina,31
+2017,Ohio,12
+2017,Oklahoma,7
+2017,Oregon,99
+2017,Pennsylvania,37
+2017,Rhode Island,12
+2017,South Carolina,5
+2017,Tennessee,45
+2017,Texas,103
+2017,Utah,18
+2017,Virginia,239
+2017,Washington,316973
+2017,Wisconsin,20
+2018,Alabama,25
+2018,Alaska,12
+2018,Arizona,106
+2018,California,573
+2018,Colorado,71
+2018,Connecticut,16
+2018,Delaware,24
+2018,District Of Columbia,50
+2018,Florida,199
+2018,Georgia,123
+2018,Hawaii,55
+2018,Idaho,74
+2018,Illinois,57
+2018,Indiana,33
+2018,Kentucky,16
+2018,Louisiana,18
+2018,Maryland,85
+2018,Massachusetts,47
+2018,Michigan,22
+2018,Minnesota,46
+2018,Montana,38
+2018,Nebraska,6
+2018,Nevada,58
+2018,New Hampshire,12
+2018,New Jersey,28
+2018,New Mexico,15
+2018,New York,60
+2018,North Carolina,33
+2018,Ohio,1
+2018,Oklahoma,50
+2018,Oregon,160
+2018,Pennsylvania,40
+2018,Puerto Rico,6
+2018,Rhode Island,12
+2018,South Carolina,21
+2018,Tennessee,22
+2018,Texas,160
+2018,Utah,10
+2018,Virginia,279
+2018,Washington,436032
+2018,Wisconsin,12
+2019,Alabama,25
+2019,Alaska,27
+2019,Arizona,194
+2019,California,848
+2019,Colorado,110
+2019,Connecticut,24
+2019,Delaware,24
+2019,District Of Columbia,47
+2019,Florida,184
+2019,Georgia,127
+2019,Hawaii,67
+2019,Idaho,59
+2019,Illinois,75
+2019,Indiana,24
+2019,Kansas,7
+2019,Kentucky,15
+2019,Louisiana,8
+2019,Maine,12
+2019,Maryland,150
+2019,Massachusetts,77
+2019,Michigan,42
+2019,Minnesota,60
+2019,Mississippi,6
+2019,Missouri,11
+2019,Montana,40
+2019,Nebraska,12
+2019,Nevada,106
+2019,New Hampshire,12
+2019,New Jersey,25
+2019,New Mexico,33
+2019,New York,66
+2019,North Carolina,67
+2019,Ohio,9
+2019,Oklahoma,60
+2019,Oregon,197
+2019,Pennsylvania,48
+2019,Puerto Rico,12
+2019,Rhode Island,12
+2019,South Carolina,26
+2019,Tennessee,23
+2019,Texas,284
+2019,Virginia,346
+2019,Washington,598689
+2019,Wisconsin,12
+2020,Alabama,11
+2020,Alaska,32
+2020,Arizona,222
+2020,California,1026
+2020,Colorado,95
+2020,Connecticut,24
+2020,Delaware,24
+2020,District Of Columbia,56
+2020,Florida,187
+2020,Georgia,139
+2020,Hawaii,76
+2020,Idaho,36
+2020,Illinois,80
+2020,Indiana,42
+2020,Kansas,16
+2020,Kentucky,12
+2020,Louisiana,4
+2020,Maine,12
+2020,Maryland,160
+2020,Massachusetts,50
+2020,Michigan,39
+2020,Minnesota,48
+2020,Mississippi,13
+2020,Missouri,37
+2020,Montana,38
+2020,Nebraska,12
+2020,Nevada,104
+2020,New Hampshire,12
+2020,New Jersey,34
+2020,New Mexico,20
+2020,New York,82
+2020,North Carolina,69
+2020,North Dakota,11
+2020,Ohio,24
+2020,Oklahoma,47
+2020,Oregon,189
+2020,Pennsylvania,41
+2020,Puerto Rico,12
+2020,Rhode Island,12
+2020,South Carolina,30
+2020,South Dakota,1
+2020,Tennessee,51
+2020,Texas,289
+2020,Utah,20
+2020,Virginia,421
+2020,Washington,737653
+2020,Wisconsin,12
+2021,Alaska,36
+2021,Arizona,143
+2021,Arkansas,11
+2021,California,1077
+2021,Colorado,80
+2021,Connecticut,33
+2021,Delaware,24
+2021,District Of Columbia,73
+2021,Florida,151
+2021,Georgia,97
+2021,Hawaii,81
+2021,Idaho,3
+2021,Illinois,96
+2021,Indiana,50
+2021,Kansas,23
+2021,Kentucky,12
+2021,Louisiana,12
+2021,Maine,12
+2021,Maryland,294
+2021,Massachusetts,55
+2021,Michigan,20
+2021,Minnesota,28
+2021,Mississippi,24
+2021,Missouri,60
+2021,Montana,35
+2021,Nebraska,28
+2021,Nevada,127
+2021,New Hampshire,12
+2021,New Jersey,47
+2021,New Mexico,14
+2021,New York,87
+2021,North Carolina,85
+2021,North Dakota,12
+2021,Ohio,25
+2021,Oklahoma,19
+2021,Oregon,147
+2021,Pennsylvania,61
+2021,Puerto Rico,12
+2021,Rhode Island,19
+2021,South Carolina,42
+2021,South Dakota,12
+2021,Tennessee,41
+2021,Texas,280
+2021,Utah,29
+2021,Virginia,464
+2021,Washington,940427
+2021,Wisconsin,30
+2022,Alabama,7
+2022,Alaska,27
+2022,Arizona,78
+2022,Arkansas,3
+2022,California,728
+2022,Colorado,62
+2022,Connecticut,41
+2022,Delaware,18
+2022,District Of Columbia,48
+2022,Florida,95
+2022,Georgia,70
+2022,Hawaii,45
+2022,Idaho,2
+2022,Illinois,80
+2022,Indiana,19
+2022,Kansas,27
+2022,Kentucky,9
+2022,Louisiana,9
+2022,Maine,9
+2022,Maryland,258
+2022,Massachusetts,28
+2022,Minnesota,12
+2022,Mississippi,14
+2022,Missouri,40
+2022,Montana,10
+2022,Nebraska,37
+2022,Nevada,91
+2022,New Hampshire,9
+2022,New Jersey,41
+2022,New Mexico,9
+2022,New York,39
+2022,North Carolina,78
+2022,North Dakota,9
+2022,Ohio,13
+2022,Oklahoma,10
+2022,Oregon,63
+2022,Pennsylvania,45
+2022,Puerto Rico,4
+2022,Rhode Island,18
+2022,South Carolina,35
+2022,South Dakota,9
+2022,Tennessee,28
+2022,Texas,179
+2022,Utah,36
+2022,Virginia,331
+2022,Washington,895728
+2022,Wisconsin,18
+2022,Wyoming,4
